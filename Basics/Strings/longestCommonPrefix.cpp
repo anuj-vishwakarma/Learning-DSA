@@ -1,7 +1,9 @@
 #include<iostream> 
+#include<vector>
+#include<string>
 using namespace std;
 bool doesExists(char ch, int index, vector<string>& str){
-    for(int i=1; i<str.length; i++){
+    for(int i=1; i<str.size(); i++){
         string word = str[i];
         for(int j=0; j<word.length(); j++){
             if(word[j] == ch && index == j){
@@ -13,7 +15,7 @@ bool doesExists(char ch, int index, vector<string>& str){
 string longestCommonPrefix(vector<string>& str){
     vector<char> chars;
 
-    for(int i=0; i<str.length(); i++){
+    for(int i=0; i<str.size(); i++){
         string word = str[i];
         for(int j=0; j<word.length(); j++){
             if(doesExists(word[j], j, str)){
@@ -27,16 +29,18 @@ string longestCommonPrefix(vector<string>& str){
         ans += i;
     }
     return ans;
-
+    // this is update one 
 
 }
 int main(){
     int n;
-    vector<string> str;
+    vector<string> words(n);
     cin >> n;
 
     for(int i=0; i<n; i++){
         cin >> words[i];
     }
+    string ans = longestCommonPrefix(words);
+    cout << ans;
     return 0;
 }
