@@ -1,0 +1,43 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is ahead of 'origin/main' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   .vscode/launch.json
+#	modified:   .vscode/settings.json
+#	new file:   Basics/Basic Recursion/build/Debug/check_prime.o
+#	new file:   Basics/Basic Recursion/build/Debug/outDebug.exe
+#	new file:   Basics/Basic Recursion/build/Debug/sum_of_digits_of_number.o
+#	new file:   Basics/Basic Recursion/check_array_is_sorted.cpp
+#	new file:   Basics/Basic Recursion/check_array_is_sorted.exe
+#	new file:   Basics/Basic Recursion/check_prime.cpp
+#	new file:   Basics/Basic Recursion/check_prime.exe
+#	new file:   Basics/Basic Recursion/palindrome.cpp
+#	new file:   Basics/Basic Recursion/palindrome.exe
+#	new file:   Basics/Basic Recursion/reverse_array.cpp
+#	new file:   Basics/Basic Recursion/reverse_array.exe
+#	new file:   Basics/Basic Recursion/reverse_string.cpp
+#	new file:   Basics/Basic Recursion/sum_of_digits_of_number.cpp
+#	new file:   Basics/Basic Recursion/sum_of_digits_of_number.exe
+#	new file:   Basics/Patterns/lc_1684.cpp
+#	renamed:    Patterns/leetcode_14.cpp -> Basics/Patterns/leetcode_14.cpp
+#	renamed:    Patterns/leetcode_14.exe -> Basics/Patterns/leetcode_14.exe
+#	renamed:    Patterns/pattern9.cpp -> Basics/Patterns/pattern9.cpp
+#	renamed:    Patterns/pattern9.exe -> Basics/Patterns/pattern9.exe
+#	renamed:    Patterns/pattern9_using_ifelse.cpp -> Basics/Patterns/pattern9_using_ifelse.cpp
+#	renamed:    Patterns/pattern9_using_ifelse.exe -> Basics/Patterns/pattern9_using_ifelse.exe
+#	new file:   Basics/Patterns/tempCodeRunnerFile.cpp
+#	deleted:    Patterns/tempCodeRunnerFile.cpp
+#	new file:   Sorting/bubble_sort.cpp
+#	new file:   Sorting/merge_sort.cpp
+#	new file:   Sorting/merge_sort.exe
+#	new file:   Sorting/quick_sort.cpp
+#	new file:   Sorting/quick_sort.exe
+#	new file:   Sorting/selection_sort.cpp
+#	new file:   Sorting/selection_sort.exe
+#	new file:   Sorting/tempCodeRunnerFile.cpp
+#
